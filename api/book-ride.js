@@ -8,7 +8,7 @@ export default async function handler(req, res) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer PASTE_YOUR_CONEXA_TOKEN_HERE"
+        "Authorization": "Bearer pit-d4b5a12b-0149-4fae-a993-9f8b27090212"
       },
       body: JSON.stringify(req.body)
     });
