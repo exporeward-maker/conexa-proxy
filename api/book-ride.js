@@ -8,7 +8,7 @@ export default function handler(req, res) {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": "Bearer YOUR_CONEXA_TOKEN_HERE"
+      "Authorization": "Bearer pit-7b79f72e-e6f8-427f-b288-8ecb6c22fc4a"
     },
     body: JSON.stringify(req.body)
   })
